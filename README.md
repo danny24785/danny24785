@@ -2,7 +2,15 @@
 
 - Currently I work at [gro-up](https://www.gro-up.nl) as webdeveloper
     - For the last 5 years I have been developing WordPress themes, worked on some WordPress templates and lately have taken a dive in building Vue.js apps.
-- In my spare time I build even more WordPress websites
+- Some examples I've build @ gro-up (formerly known as SWKGroep):
+    - [Buurtwerk.nl](https://www.buurtwerk.nl)
+    - [COKD](https://ontwikkelsite1.swkfacetweb.nl/)
+    - [Rondkomen in Rotterdam](https://www.rondkomeninrotterdam.nl/)
+    - [SWKGroepzoomeravond](https://ontwikkelsite2.swkfacetweb.nl/)
+- In my spare time I build even more WordPress websites, some examples:
+    - [Loca.nl](https://loca.nl)
+    - [Face2faith.nl](https://face2faith.nl/)
+    - [Stichting UnieK](https://www.stichtinguniek.nl/)
 
 ### Skills
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
