@@ -5,6 +5,7 @@
 - Some examples I've build @ gro-up (formerly known as SWKGroep):
     - [Buurtwerk.nl](https://www.buurtwerk.nl)
     - [COKD](https://ontwikkelsite1.swkfacetweb.nl/)
+    - [Activity feed built for Buurtwerk in Vue.js](https://www.buurtwerk.nl/activiteiten-feed/)
     - [Rondkomen in Rotterdam](https://www.rondkomeninrotterdam.nl/)
     - [SWKGroepzoomeravond](https://ontwikkelsite2.swkfacetweb.nl/)
 - In my spare time I build even more WordPress websites, some examples:
